@@ -2,15 +2,15 @@
 
  Bem-vindo ao meu portifólio
 
- # Sobre mim
+ #Sobre mim
 - Sou estudante de analise e desenvolvimento de sistemas
 
 ## Projetos
 - **Calculadora JS**— App web
 - **Blog pessoal**— HTML + CSS
 
- ## Contato
+ ##Contato
 - **E-mail**: pedroaraujo-dev@gmail.com
 
- ## Links
+ ##Links
 - **Youtube** (https://youtube.com)
