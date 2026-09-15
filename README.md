@@ -2,8 +2,8 @@
 
  Bem-vindo ao meu portifólio
 
- ## Sobre mim
-Sou estudante de analise e desenvolvimento de sistemas
+ # Sobre mim
+- Sou estudante de analise e desenvolvimento de sistemas
 
 ## Projetos
 - **Calculadora JS**— App web
